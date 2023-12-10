@@ -1,0 +1,64 @@
+body {
+    margin-left: 20px;
+}
+
+.chats {
+    background-color: rgb(198, 245, 245);
+    width: 250px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 12px;
+    margin: 10px;
+
+}
+
+.text {
+    padding: 4px;
+}
+
+.msg {
+    padding: 4px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+
+
+}
+
+.new {
+    padding: 12px;
+
+
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+}
+
+.edit {
+    padding: 4px;
+    padding: 5px 15px;
+    border-radius: 10px;
+    height: 30px;
+    border: none;
+}
+
+.form {
+    display: inline-block;
+}
+
+.delete {
+    padding: 4px;
+    padding: 5px 15px;
+    border-radius: 10px;
+    height: 30px;
+    border: none;
+    background-color: red;
+    color: white;
+}
